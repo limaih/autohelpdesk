@@ -1,0 +1,4 @@
+numpy==1.26.4
+pandas==2.1.4
+gensim==4.3.0
+cloudpickle==2.2.1
