@@ -1,4 +1,5 @@
 numpy==1.26.4
 pandas==2.1.4
+scipy==1.12
 gensim==4.3.0
 cloudpickle==2.2.1
